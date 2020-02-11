@@ -1,6 +1,6 @@
 aniso8601==4.1.0
 Click==7.0
-Django==2.1.7
+Django==2.2.10
 entrypoints==0.2.3
 Faker==0.8.11
 Flask==1.0.2
